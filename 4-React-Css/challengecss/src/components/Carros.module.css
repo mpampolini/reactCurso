@@ -1,0 +1,12 @@
+.alinhamento {
+    max-width: 150px;
+    margin: 0 auto;
+}
+
+.carrosComponent {
+    color:green;
+    background-color: black;
+    padding: 10px;
+    list-style: none;
+    margin: 5px;
+}
